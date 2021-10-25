@@ -1,0 +1,24 @@
+{
+  "inventory": [
+    {
+      "art_id": "c3425e42-32b1-11ec-8d3d-0242ac130003",
+      "name": "leg",
+      "stock": "11"
+    },
+    {
+      "art_id": "c8199d04-32b1-11ec-8d3d-0242ac130003",
+      "name": "screw",
+      "stock": "17"
+    },
+    {
+      "art_id": "cb63fe82-32b1-11ec-8d3d-0242ac130003",
+      "name": "seat",
+      "stock": "2"
+    },
+    {
+      "art_id": "cdd9a0f4-32b1-11ec-8d3d-0242ac130003",
+      "name": "table top",
+      "stock": "1"
+    }
+  ]
+}

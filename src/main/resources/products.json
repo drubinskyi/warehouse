@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "name": "Dining Chair",
+      "price": 10.50,
+      "contain_articles": [
+        {
+          "art_id": "c3425e42-32b1-11ec-8d3d-0242ac130003",
+          "amount_of": "4"
+        },
+        {
+          "art_id": "c8199d04-32b1-11ec-8d3d-0242ac130003",
+          "amount_of": "8"
+        },
+        {
+          "art_id": "cb63fe82-32b1-11ec-8d3d-0242ac130003",
+          "amount_of": "1"
+        }
+      ]
+    },
+    {
+      "name": "Dinning Table",
+      "price": 11,
+      "contain_articles": [
+        {
+          "art_id": "c3425e42-32b1-11ec-8d3d-0242ac130003",
+          "amount_of": "4"
+        },
+        {
+          "art_id": "c8199d04-32b1-11ec-8d3d-0242ac130003",
+          "amount_of": "8"
+        },
+        {
+          "art_id": "cdd9a0f4-32b1-11ec-8d3d-0242ac130003",
+          "amount_of": "1"
+        }
+      ]
+    }
+  ]
+}
